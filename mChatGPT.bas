@@ -37,7 +37,7 @@ Sub OpenAI_Completion()
           ' Check if API key is available
 30        If API_KEY = "<API_KEY>" Then
 40            MsgBox "Please input a valid API key. You can get one from https://openai.com/api/", vbCritical, "No API Key Found"
-50            Application.ScreenUpdating = False
+50            Application.ScreenUpdating = True
 60            Exit Sub
 70        End If
 
@@ -51,7 +51,7 @@ Sub OpenAI_Completion()
 100           prompt = CleanJSONString(prompt)
 110       Else
 120           MsgBox "Please enter some text in the selected cell before executing the macro", vbCritical, "Empty Input"
-130           Application.ScreenUpdating = False
+130           Application.ScreenUpdating = True
 140           Exit Sub
 150       End If
 
