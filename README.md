@@ -1,6 +1,8 @@
 # ChatGPT right INSIDE Excel 🤯
 Get ready to revolutionize your spreadsheet game! In this video, we'll show you how to use the power of OpenAI's ChatGPT right inside Microsoft Excel. With a custom VBA code, you'll be able to integrate the cutting-edge AI technology directly into your spreadsheets. Whether you're looking to automate tedious tasks or add a new level of intelligence to your data analysis, this video will take you through the process step by step
 
+## Demo
+<img src="Demo_ChatGPT.gif" width="400" alt="Demo ChatGPT">
 
 ## Video Tutorial
 ..will follow soon!
