@@ -5,8 +5,7 @@ Get ready to revolutionize your spreadsheet game! In this video, we'll show you 
 <img src="Demo_ChatGPT.gif" width="400" alt="Demo ChatGPT">
 
 ## Video Tutorial
-..will follow soon!
-[![YouTube Video](https://img.youtube.com/vi/XXX/0.jpg)](https://youtu.be/XXX)
+[![YouTube Video](https://img.youtube.com/vi/-3otazH5crw/0.jpg)](https://youtu.be/-3otazH5crw)
 
 
 ## About Me
