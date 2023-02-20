@@ -23,7 +23,7 @@ Const API_KEY As String = "<API_KEY>"
 Const API_ENDPOINT As String = "https://api.openai.com/v1/completions"
 Const MODEL As String = "text-davinci-003"
 Const MAX_TOKENS As Long = 1024
-Const TEMPERATURE As Double = 0.5
+Const TEMPERATURE As String = "0.5"
 
 'Output worksheet name
 Const OUTPUT_WORKSHEET As String = "Result"
