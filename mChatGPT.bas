@@ -22,7 +22,7 @@ Const API_KEY As String = "<API_KEY>"
 ' Constants for API endpoint and request properties
 Const API_ENDPOINT As String = "https://api.openai.com/v1/completions"
 Const MODEL As String = "text-davinci-003"
-Const MAX_TOKENS As Long = 1024
+Const MAX_TOKENS As String = "1024"
 Const TEMPERATURE As String = "0.5"
 
 'Output worksheet name
