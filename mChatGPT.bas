@@ -22,8 +22,8 @@ Const API_KEY As String = "<API_KEY>"
 ' Constants for API endpoint and request properties
 Const API_ENDPOINT As String = "https://api.openai.com/v1/completions"
 Const MODEL As String = "text-davinci-003"
-Const MAX_TOKENS As Long = 1024
-Const TEMPERATURE As Double = 0.5
+Const MAX_TOKENS As String = "1024"
+Const TEMPERATURE As String = "0.5"
 
 'Output worksheet name
 Const OUTPUT_WORKSHEET As String = "Result"
@@ -37,7 +37,7 @@ Sub OpenAI_Completion()
           ' Check if API key is available
 30        If API_KEY = "<API_KEY>" Then
 40            MsgBox "Please input a valid API key. You can get one from https://openai.com/api/", vbCritical, "No API Key Found"
-50            Application.ScreenUpdating = False
+50            Application.ScreenUpdating = True
 60            Exit Sub
 70        End If
 
@@ -57,7 +57,7 @@ Sub OpenAI_Completion()
 130           prompt = CleanJSONString(prompt)
 140       Else
 150           MsgBox "Please enter some text in the selected cell before executing the macro", vbCritical, "Empty Input"
-160           Application.ScreenUpdating = False
+160           Application.ScreenUpdating = True
 170           Exit Sub
 180       End If
 
