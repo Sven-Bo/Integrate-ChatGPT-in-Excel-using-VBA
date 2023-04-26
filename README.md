@@ -7,9 +7,8 @@ After creating the video, I realized it would be an excellent idea to make this 
 
 ![AI Companion Demo](assets/ai_companion.png)
 
-## 🎥 **Sneak peek YouTube video**:
-[![YouTube Video](https://img.youtube.com/vi/ktxvzUHQgyk/0.jpg)](https://youtu.be/ktxvzUHQgyk)
-
+## 🎥 **Full Explanation video**:
+[![YouTube Video](https://img.youtube.com/vi/fvGMq4Vy5Bk/0.jpg)](https://youtu.be/fvGMq4Vy5Bk)
 
 ## ChatGPT right INSIDE Excel 🤯
 In this repo, you'll find the VBA code from the YouTube video, which demonstrates how to integrate the GPT-3 model into Microsoft Excel using custom VBA code.
