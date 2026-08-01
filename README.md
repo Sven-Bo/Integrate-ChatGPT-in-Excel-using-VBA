@@ -38,10 +38,11 @@ If you encounter a 429 error message indicating that you have exceeded your curr
 1. Check your OpenAI API usage: Log into your OpenAI account at https://platform.openai.com/account/api-keys and review your API usage to determine if you have indeed exceeded your allotted quota for the current billing period.
 2. Add your billing details: If you have used up your free credits, you will need to add your billing details to your OpenAI account in order to continue using the AI Companion. To do so, visit https://platform.openai.com/billing and enter the required information.
 
-## More Solutions
-Explore my tools and templates for Excel, automation, and more.
+## Learn Excel Automation with Python
+If this repo helped you, my [Excel Automation Course](https://pythonandvba.com/excel-automation-course/) teaches the full workflow from zero: Python for Excel users, xlwings, pandas and real projects.
 
-**[View all solutions](https://pythonandvba.com/solutions)**
+Also check out my other [tools and templates](https://pythonandvba.com/solutions).
+
 ## Connect with Me
 - **YouTube:** [CodingIsFun](https://youtube.com/c/CodingIsFun)
 - **Website:** [PythonAndVBA](https://pythonandvba.com)
